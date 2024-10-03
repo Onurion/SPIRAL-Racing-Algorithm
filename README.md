@@ -60,6 +60,8 @@ TRACK = 1  # More challenging track
 # Run the training script
 python selfplay.py
 
+```
+
 ## Environment Details
 
 The envs folder contains the implementation of the multi-drone racing environment, including:
